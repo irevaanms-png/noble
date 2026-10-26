@@ -1,0 +1,6 @@
+{
+  "name": "Icarus D. Noble AI Companion",
+  "description": "Omni-capable AI desktop system companion inspired by Jarvis, FRIDAY, and EDITH featuring 3D holographic HUD, real-time IoT analysis, and desktop automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
